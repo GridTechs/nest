@@ -47,7 +47,7 @@ In any case, the Grantee shall in no case be liable for any taxes required to be
 
 
 
-Schedule A: Description of the Project 
+# Schedule A: Description of the Project 
 
 Aragon awards this grant to support and contribute in the development of the project through the works described here.
 
@@ -57,7 +57,7 @@ A success reward up to 30k ANT may be paid, entirely at Aragon’s discretion, a
 
 
 
-Schedule B: Data Processing Agreement
+# Schedule B: Data Processing Agreement
 
 
 Between:
